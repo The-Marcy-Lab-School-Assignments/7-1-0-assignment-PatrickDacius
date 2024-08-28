@@ -90,6 +90,69 @@
       "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
       "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/448.png",
       "id": 13
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "40",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 14
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "40",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 15
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "40",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 16
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "40",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 17
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "40",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 18
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "40",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 19
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "40",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 20
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "40",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 21
+    },
+    {
+      "name": "Kristen Santos",
+      "hp": "",
+      "front": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      "back": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "id": 22
     }
   ]
 }
